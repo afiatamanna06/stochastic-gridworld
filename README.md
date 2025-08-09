@@ -89,12 +89,6 @@ The output shows:
 
 ---
 
-## License
-
-This project is released under the **MIT License**.  
-
----
-
 ## Contact
 
 For questions or suggestions, please contact **Afia Anjum Tamanna**:
